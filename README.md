@@ -6,6 +6,8 @@
 
 This plugin allows you to launch [WhatsApp](https://www.whatsapp.com/) using pre-populated info from your form. You can provide a phone number, a message, or both. 
 
+This version is modified by [ARCED Foundation](https://arced.foundation) to not to store the message as metadata for a specific project requirement.
+
 [![Download now](extras/download-button.png)](https://github.com/surveycto/launch-whatsapp/raw/master/launch-whatsapp.fieldplugin.zip)
 
 ### Data format

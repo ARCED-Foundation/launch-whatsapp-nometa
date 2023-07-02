@@ -65,9 +65,9 @@ function saveResponse () {
   if (whatsAppNumber) {
     successResponse += ' number=' + whatsAppNumber + ';'
   }
-  if (whatsAppMessage) {
-    successResponse += ' message="' + whatsAppMessage + '"'
-  }
+  // if (whatsAppMessage) {
+  //   successResponse += ' message="' + whatsAppMessage + '"'
+  // }
   // Store the response.
   setAnswer(successResponse)
 }

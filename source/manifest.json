@@ -1,6 +1,7 @@
 {
-	"name" : "Launch WhatsApp",
+	"name" : "Launch WhatsApp No meta",
 	"author" : "Dobility",
-	"version": "1.0.2",
+	"modified by": "ARCED Foundation",
+	"version": "1.0.3",
 	"supportedFieldTypes": ["text"]
 }
